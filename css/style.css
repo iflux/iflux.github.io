@@ -1,1 +1,295 @@
+.sizepage {
 
+    width : 1200px;
+    height : 900px;
+    
+
+}
+
+#left_part {
+
+    background-color: mediumpurple;
+    float: left;
+    width: 400px;
+    height: 960px;
+}
+#right_part {
+    
+    background-color: floralwhite;
+    
+    float: left;
+    width: 1200px;
+    height: 960px;
+}
+#lastname {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 5%;
+    top: 4%;
+}
+#surname {  
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 7%;
+    top: 8%;
+}
+#classe {
+    color: white;
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 9%;
+    top: 12%;
+}
+#lientocqueville {
+    position : absolute;
+    font-family: OCR A Std, monospace;
+    font-size: 20px;
+    left : 2%;
+    top : 96%;
+}
+#title {
+    font-family: OCR A Std, monospace;
+    font-size : 30px;
+    position : absolute;
+    top : -4%;
+    left : 32%;
+}
+#sa_vie {
+    font-size : 28px;
+    font-family: OCR A Std, monospace;
+    position :absolute;
+    top : 30%;
+    left : 29%;
+    
+    
+}
+#son_oeuvre {
+    font-size: 28px;
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    top: 40%;
+    left: 29%;
+}
+
+#ressources {
+    
+    font-size: 28px;
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    top: 50%;
+    left: 29%;
+    
+}
+.top {
+    background-color: mediumpurple;
+    
+    width: 1200px;
+    height: 110px;
+}
+nav {
+    position : absolute;
+    left : 2%;
+    line-height: 100px
+}
+
+    nav a {
+        text-decoration: none;
+        font-family: OCR A Std, monospace;
+        letter-spacing: 4px;
+        font-size: 25px;
+        
+        color: white;
+    }
+.bot {
+    
+    height : 790px;
+    width : 1200px;
+    background-color : floralwhite;
+
+}
+#titlesavie {
+    color: white;
+    font-size: 25px;
+    font-family: OCR A Std, monospace;
+    position : absolute;
+    left : 25%;
+    top : 0%;
+}
+#titlesonhistoire {
+    color: white;
+    font-size: 25px;
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 24%;
+    top: 0%;
+}
+#titleressources {
+    color: white;
+    font-size: 25px;
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 24%;
+    top: 0%;
+}
+
+
+.texte1 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 1%;
+    top: 12%;
+    font-size : 18px;
+
+}
+.texte2 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 1%;
+    top: 21%;
+    font-size: 18px;
+}
+#barre {
+    width: 1200px;
+    height: 22px;
+    background-color: mediumpurple;
+    top : 34%;
+    position : absolute;
+}
+.georgepic {
+   top : 40%;
+   position : absolute;
+   left : 1%;
+
+}
+.texte3 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 15%;
+    top: 37%;
+    font-size: 18px;
+}
+#barre1 {
+    width: 1200px;
+    height: 22px;
+    background-color: mediumpurple;
+    top: 75%;
+    position: absolute;
+}
+.texte4 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 1%;
+    top: 77%;
+    font-size: 18px;
+}
+.text1 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 1%;
+    top: 12%;
+    font-size: 18px;
+}
+.georgepic2 {
+
+    top : 41%;
+    position : absolute;
+    left :   1%
+}
+#barre4 {
+    width: 1200px;
+    height: 22px;
+    background-color: mediumpurple;
+    top: 37%;
+    position: absolute;
+}
+.texte5 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 17%;
+    top: 46%;
+    font-size: 18px;
+}
+#barre5 {
+    width: 1200px;
+    height: 22px;
+    background-color: mediumpurple;
+    top: 74%;
+    position: absolute;
+}
+.texte8 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 1%;
+    top: 76%;
+    font-size: 18px;
+}
+.title1 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 3%;
+    top: 12%;
+    font-size: 14px;
+}
+.links1{
+
+    position : absolute;
+    top : 88%;
+    left : 10%;
+
+}
+.title2 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 3%;
+    top: 24%;
+    font-size: 14px;
+}
+.links2 {
+    position: absolute;
+    top: 88%;
+    left: 13%;
+}
+.title3 {
+    font-family: OCR A Std, monospace;
+    position: absolute;
+    left: 3%;
+    top: 36%;
+    font-size: 14px;
+}
+.links3 {
+    position: absolute;
+    top: 88%;
+    left: 22%;
+}
+.picdroite{
+
+    position : absolute;
+    top : 25%;
+    left : 50%;
+
+
+}
+.elonmusk{
+
+    position : absolute;
+    top : 50%;
+    left : 3%;
+
+}
+#maDiv {
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    border: 2px solid black;
+    position: absolute;
+    top: 80%;
+    left : 30%;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.blanc {
+    background-color: white;
+}
